@@ -1,8 +1,8 @@
 ![image](https://github.com/user-attachments/assets/7ba47e8f-256d-49d7-b6dc-875c591b0625)
 
 
-# Project Title : 
 ### 🔱 Password Generator
+
 
 # About The Project : 
 ### "Password Generator" basically generates a completely randomized strong password for us. The password generated is alphanumeric in nature and also contains symbols.
