@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/7ba47e8f-256d-49d7-b6dc-875c591b0625)
 
 
-### 🔱 Password Generator
+# 🔱 Password Generator
 
 
 # About The Project : 
